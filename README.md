@@ -1,3 +1,3 @@
 # apnacollege-demo
 1st git repo
-made by Aaditya
+made by Aaditya Kumar
